@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = j.haynes1@lse.ac.uk
+	name = Jordan Haynes
